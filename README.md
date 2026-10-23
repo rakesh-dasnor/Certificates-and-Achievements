@@ -27,3 +27,14 @@ Successfully completed the 12-week NPTEL Deep Learning course offered through II
 
 Successfully completed the 12-week NPTEL German I course offered through IIT Madras. This certification represents my learning achievement in the German language.
 
+## IEEE AIDML 2026 – Research Paper Presentation Certificate
+
+- **Conference:** IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML-2026)
+- **Host Institution:** Guru Ghasidas Vishwavidyalaya, Bilaspur
+- **Conference Dates:** August 7–8, 2026
+- **Achievement:** Presented a research paper
+- **Research Paper Title:** An Enhanced Machine Learning Framework for Network Intrusion Detection Using Ensemble Classification
+
+### Description
+
+Presented a research paper on an enhanced machine learning framework for network intrusion detection using ensemble classification at the IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML-2026).
