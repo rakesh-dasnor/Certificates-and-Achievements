@@ -61,3 +61,17 @@ Successfully completed the 12-week NPTEL German I course offered through IIT Mad
 Presented a research paper on an enhanced machine learning framework for network intrusion detection using ensemble classification at AIDML-2026.
 
 ---
+## 4. IT Vedant – Advanced Excel Certificate
+
+[![IT Vedant Advanced Excel Certificate](IT-Vedant-Advanced-Excel-Certificate.jpg)](IT-Vedant-Advanced-Excel-Certificate.jpg)
+
+**[View Advanced Excel Certificate](IT-Vedant-Advanced-Excel-Certificate.jpg)**
+
+- **Course:** Advanced Excel
+- **Issuing Organization:** IT Vedant
+- **Date of Achievement:** July 3, 2026
+- **Credential ID:** ITV6a742d495f5b2
+
+### Description
+
+Successfully completed the Advanced Excel course from IT Vedant on July 3, 2026. This certification documents my learning in Microsoft Excel and my professional development in data analysis.
