@@ -75,3 +75,20 @@ Presented a research paper on an enhanced machine learning framework for network
 ### Description
 
 Successfully completed the Advanced Excel course from IT Vedant on July 3, 2026. This certification documents my learning in Microsoft Excel and my professional development in data analysis.
+---
+---
+
+## 5. IT Vedant – SQL Certificate
+
+[![IT Vedant SQL Certificate](IT-Vedant-SQL-Certificate.jpg)](IT-Vedant-SQL-Certificate.jpg)
+
+**[View SQL Certificate](IT-Vedant-SQL-Certificate.jpg)**
+
+- **Course:** SQL
+- **Issuing Organization:** IT Vedant
+- **Date of Achievement:** July 27, 2026
+- **Credential ID:** ITV6a82d31edd3fe
+
+### Description
+
+Successfully completed the SQL course from IT Vedant on July 27, 2026. This certification represents my learning in SQL and database querying.
