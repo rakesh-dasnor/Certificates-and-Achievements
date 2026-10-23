@@ -1,6 +1,14 @@
 # Certificates & Achievements
 
-## NPTEL Deep Learning Certificate
+Welcome to my certificates and achievements portfolio. This repository showcases my certifications, academic learning, and research paper presentation.
+
+---
+
+## 1. NPTEL Deep Learning Certificate
+
+[![NPTEL Deep Learning Certificate](NPTEL-Deep-Learning-Certificate.jpg)](NPTEL-Deep-Learning-Certificate.jpg)
+
+**[View Deep Learning Certificate](NPTEL-Deep-Learning-Certificate.jpg)**
 
 - **Course:** Deep Learning
 - **Issuing Organization:** NPTEL – IIT Kharagpur
@@ -11,9 +19,16 @@
 - **Recommended Credits:** 4
 
 ### Description
-Successfully completed the 12-week NPTEL Deep Learning course offered through IIT Kharagpur. This certification represents my learning in Deep Learning concepts and my continued interest in Artificial Intelligence and Machine Learning.
 
-## NPTEL German I Certificate
+Successfully completed the 12-week NPTEL Deep Learning course offered through IIT Kharagpur.
+
+---
+
+## 2. NPTEL German I Certificate
+
+[![NPTEL German I Certificate](NPTEL-German-I-Certificate.jpg)](NPTEL-German-I-Certificate.jpg)
+
+**[View German I Certificate](NPTEL-German-I-Certificate.jpg)**
 
 - **Course:** German I
 - **Issuing Organization:** NPTEL – IIT Madras
@@ -25,16 +40,32 @@ Successfully completed the 12-week NPTEL Deep Learning course offered through II
 
 ### Description
 
-Successfully completed the 12-week NPTEL German I course offered through IIT Madras. This certification represents my learning achievement in the German language.
+Successfully completed the 12-week NPTEL German I course offered through IIT Madras.
 
-## IEEE AIDML 2026 – Research Paper Presentation Certificate
+---
+
+## 3. IEEE AIDML 2026 – Research Paper Presentation Certificate
+
+[![IEEE AIDML 2026 Certificate](IEEE-AIDML-2026-Research-Paper-Presentation.jpg)](IEEE-AIDML-2026-Research-Paper-Presentation.jpg)
+
+**[View IEEE AIDML 2026 Certificate](IEEE-AIDML-2026-Research-Paper-Presentation.jpg)**
 
 - **Conference:** IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML-2026)
 - **Host Institution:** Guru Ghasidas Vishwavidyalaya, Bilaspur
 - **Conference Dates:** August 7–8, 2026
-- **Achievement:** Presented a research paper
-- **Research Paper Title:** An Enhanced Machine Learning Framework for Network Intrusion Detection Using Ensemble Classification
+- **Achievement:** Research Paper Presentation
+- **Research Paper Title:** *An Enhanced Machine Learning Framework for Network Intrusion Detection Using Ensemble Classification*
 
 ### Description
 
-Presented a research paper on an enhanced machine learning framework for network intrusion detection using ensemble classification at the IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML-2026).
+Presented a research paper on an enhanced machine learning framework for network intrusion detection using ensemble classification at AIDML-2026.
+
+---
+
+## Areas of Interest
+
+- Python
+- Data Analytics
+- Machine Learning
+- Deep Learning
+- Network Security
