@@ -92,3 +92,20 @@ Successfully completed the Advanced Excel course from IT Vedant on July 3, 2026.
 ### Description
 
 Successfully completed the SQL course from IT Vedant on July 27, 2026. This certification represents my learning in SQL and database querying.
+---
+---
+
+## 6. IT Vedant – Power BI Certificate
+
+[![IT Vedant Power BI Certificate](IT-Vedant-Power-BI-Certificate.jpg)](IT-Vedant-Power-BI-Certificate.jpg)
+
+**[View Power BI Certificate](IT-Vedant-Power-BI-Certificate.jpg)**
+
+- **Course:** Power BI
+- **Issuing Organization:** IT Vedant
+- **Date of Achievement:** August 14, 2026
+- **Credential ID:** ITV6aa15cc909293
+
+### Description
+
+Successfully completed the Power BI course from IT Vedant on August 14, 2026. This certification represents my learning in business intelligence, data visualization, and dashboard reporting.
