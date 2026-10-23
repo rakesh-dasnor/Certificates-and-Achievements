@@ -61,11 +61,3 @@ Successfully completed the 12-week NPTEL German I course offered through IIT Mad
 Presented a research paper on an enhanced machine learning framework for network intrusion detection using ensemble classification at AIDML-2026.
 
 ---
-
-## Areas of Interest
-
-- Python
-- Data Analytics
-- Machine Learning
-- Deep Learning
-- Network Security
